@@ -1,7 +1,8 @@
-## Hi there 👋
-Welcome to my profile
+HI THERE 👋
+*Welcome to my profile*
 
-**larie12/larie12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MY NAME IS 
+*Larissa OLiveira*
 
 - 🔭 I’m not currently working on 
 - 🌱 I’m currently learning to program in Javascript language
